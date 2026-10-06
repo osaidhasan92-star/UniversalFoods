@@ -1,0 +1,5 @@
+V16:
+- Moved the desktop Universal Foods logo approximately 105px to the right,
+  matching the highlighted area in the supplied screenshot.
+- Navigation position is unchanged.
+- Mobile logo position remains unchanged.

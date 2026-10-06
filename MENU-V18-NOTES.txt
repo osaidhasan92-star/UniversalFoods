@@ -1,0 +1,8 @@
+V18:
+- Nested submenu behavior corrected.
+- Submenus are hidden by default.
+- Hovering Food Business Line shows only its submenu.
+- Hovering Healthcare & Consumer Business Line shows only its submenu.
+- Same behavior for Leadership, Our Brands, Operations, Corporate Governance, Investor Tools, Contact and Our Commitment.
+- Mobile uses click/accordion behavior.
+- Page links remain # for the next linking step.

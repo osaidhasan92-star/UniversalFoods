@@ -1,0 +1,7 @@
+Universal Foods v25
+
+All previously external Mezzan fallback menu links have been replaced with local Universal Foods pages.
+
+New local pages: food-manufacturing.html, pharmaceutical-manufacturing.html, highlights.html, understanding.html, calendar.html, whistleblowing.html, disclosures.html, analyst-coverage.html, share-price.html, general-assembly.html, ir-contacts.html, faq.html.
+
+Existing local pages remain linked for all other navigation items. The Mezzan website was used only as a structural/reference source for the missing route categories; no Mezzan branding or page copy was imported.

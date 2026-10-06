@@ -1,0 +1,4 @@
+V24: Connected navigation.
+Existing Universal Foods pages use local links. Missing Universal Foods pages use
+the corresponding base-site page as a temporary external fallback, opening in a
+new tab. No base-site content was copied. Section anchors were added where useful.

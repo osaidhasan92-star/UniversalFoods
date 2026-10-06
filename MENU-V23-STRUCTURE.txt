@@ -1,0 +1,60 @@
+V23 menu hierarchy requested by the user:
+
+About
+- History
+- Principles and Values
+- Leadership
+  - Board of Directors
+  - Executive Management
+- Our Brands
+  - Food Brands
+  - Healthcare & Consumer Brand
+
+Business Lines
+- Overview
+  - 2025 Highlights
+  - Understanding Universal Foods
+  - Calendar
+- Food Business Line
+  - Food Manufacturing
+  - Food Distribution
+  - Catering
+  - Services
+- Healthcare & Consumer Business Line
+  - Pharmaceutical Manufacturing
+  - Pharmaceutical Distribution
+  - Consumer & Healthcare Distribution
+  - Industrials
+- Operations
+  - Locations
+  - Subsidiaries
+
+Investor Relations
+- Overview
+- Corporate Governance
+  - Whistleblowing Policy
+  - Board of Directors
+- Investor Tools
+  - Report & Presentations
+  - Disclosures and filings
+  - Analyst Coverage
+  - Share price & Charts
+  - General Asembly records
+- Contact
+  - IR contacts
+  - FAQ
+
+Social Responsibility
+- Overview
+- Our Commitment
+  - To Partners
+  - To Families
+  - To the Environment
+
+News
+- Press Releases
+
+Careers
+Contact
+
+All href values remain # for the next linking step.

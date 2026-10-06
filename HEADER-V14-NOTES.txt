@@ -1,0 +1,7 @@
+V14:
+- Reduced Universal Foods header logo substantially.
+- Kept logo fully inside the 96px header.
+- Aligned the logo with the same centered header container as the navigation.
+- Reduced left/right visual imbalance.
+- Navigation remains vertically centered.
+- Sticky and mobile states retain the corrected proportions.

@@ -1,0 +1,12 @@
+V10 Mega Dropdown:
+The uploaded v7 design is retained, but the dropdown navigation is rebuilt to match the supplied Mezzan reference video:
+- Full-width light-gray mega menu below the header
+- Three-column layout
+- Left company/section introduction
+- Middle navigation links
+- Right secondary links
+- Vertical separators
+- Active top navigation item has a darker background
+- Sub-items use right arrows
+- Desktop opens on hover; mobile opens as an accordion
+- Sticky header behavior is preserved

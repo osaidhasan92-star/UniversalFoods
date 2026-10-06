@@ -1,0 +1,15 @@
+V22:
+Fixed the reason the child menu was not appearing.
+The previous V21 controller was initialized outside the DOM-ready lifecycle.
+V22 initializes after the menu exists.
+
+Desktop behavior:
+1. Open Business Lines.
+2. Hover Food Business Line.
+3. Its child links are copied into the third/right column of the SAME mega menu.
+4. Hover Healthcare & Consumer Business Line and the right column changes.
+5. Moving into the right column keeps the children visible.
+6. Leaving the mega menu clears the right column.
+
+No floating child popup is used.
+Links remain # for the next linking step.

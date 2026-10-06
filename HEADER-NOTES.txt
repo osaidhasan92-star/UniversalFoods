@@ -1,0 +1,2 @@
+V6:
+The header is a separate solid navy document-flow section. The hero image starts below it and cannot appear behind it. The logo is fully inside the header. Desktop 96px; mobile 78px. Dropdowns open below the header. Sticky mode keeps the same solid navy background.

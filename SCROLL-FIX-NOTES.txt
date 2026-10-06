@@ -1,0 +1,6 @@
+V7 fixes:
+- Removed dynamic body padding that caused the fixed header to overlap/jump over page content.
+- Sticky header remains stable at 96px.
+- Navigation labels are explicitly forced visible in white.
+- Added scroll-margin so anchored sections do not hide beneath the sticky header.
+- Added responsive desktop spacing so navigation does not get squeezed.

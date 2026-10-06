@@ -1,0 +1,7 @@
+V15:
+- Reduced desktop header logo from v14 to approximately 112px wide.
+- Increased main navigation to 14px.
+- Increased horizontal menu spacing/padding.
+- Increased Contact button spacing.
+- Kept dropdown font size at 14px.
+- Preserved sticky header, cream background, mega dropdown and all 19 pages.

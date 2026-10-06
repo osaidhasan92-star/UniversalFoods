@@ -1,0 +1,15 @@
+V21:
+The child submenu is now implemented with a dedicated third grid column.
+When the mouse enters a parent such as Food Business Line, JavaScript copies
+that parent's child links into the SAME mega-menu's right column.
+
+Important:
+- No absolute-positioned child popup.
+- No nested floating dropdown.
+- Left = section description.
+- Middle = parent items.
+- Right = selected parent's children.
+- Moving from the parent into the right column keeps the children visible.
+- Hovering another parent replaces the right-column content.
+- Leaving the mega menu clears the right column.
+- Mobile remains an accordion.

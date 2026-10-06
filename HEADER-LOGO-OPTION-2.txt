@@ -1,0 +1,7 @@
+V12 — Option 2:
+- Removed the white logo card.
+- Added a dedicated transparent header logo asset.
+- Full-color Universal Foods logo sits directly on the navy header.
+- Header logo is approximately 178px wide on desktop.
+- Sticky header retains the same logo treatment.
+- Mega dropdown and sticky navigation from v11 are preserved.

@@ -1,0 +1,9 @@
+V17 menu update based on the user-provided reference video.
+- Recreated the header navigation structure and mega-dropdown layout.
+- About, Business Lines, Investor Relations, Social Responsibility and News use the same large gray three-column panel style.
+- Careers and Contact remain direct top-level items.
+- Menu text, hierarchy and arrows were transcribed from the supplied video.
+- Universal Foods branding/colors are retained; the reference company's logo/branding is not copied.
+- ALL href values are intentionally "#" for now. Page linking will be done in the next step.
+- Desktop: hover opens the mega menu.
+- Mobile: tap opens the accordion.

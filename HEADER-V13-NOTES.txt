@@ -1,0 +1,8 @@
+V13:
+- Changed header background from navy to warm cream (#f7f4ec).
+- Full-color Universal Foods logo now has strong contrast.
+- Repositioned and slightly refined the logo size/alignment.
+- Navigation changed to navy text with gold dropdown arrows.
+- Contact button changed to navy outline.
+- Sticky header retains the same light background.
+- Mega dropdown from v11/v12 is preserved.

@@ -1,0 +1,12 @@
+V19:
+- Corrected submenu behavior based on the supplied video.
+- There is NO separate/pop-out submenu.
+- The main gray mega-menu remains open.
+- The left column remains the section description.
+- The middle column contains the main menu options.
+- Hovering a parent such as Food Business Line changes the RIGHT column of the same mega-menu.
+- Hovering Healthcare & Consumer Business Line changes that same right column.
+- Hovering Operations, Leadership, Our Brands, Corporate Governance, Investor Tools, Contact or Our Commitment works the same way.
+- Only the hovered parent's right-column content is visible.
+- Mobile uses an accordion.
+- Page links remain # for the next step.

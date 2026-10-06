@@ -1,0 +1,12 @@
+V20:
+- Rechecked the supplied menu video.
+- Child submenu content is now explicitly anchored to the RIGHT 31% of the SAME mega menu.
+- No floating/popup submenu.
+- Left section = description.
+- Middle section = parent menu items.
+- Right section = children of the currently hovered parent.
+- Hover Food Business Line -> its children appear in the right section.
+- Hover Healthcare & Consumer Business Line -> its children replace them in the right section.
+- Same behavior for all other parent items.
+- Mobile remains an accordion.
+- Links remain # until the next linking step.

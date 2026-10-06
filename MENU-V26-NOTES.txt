@@ -1,0 +1,4 @@
+V26: Menu parents that contain child menus are non-navigational.
+Top-level parents with mega menus and nested mega parents use href="#".
+Desktop: hover opens/selects children. Mobile: click toggles accordion children.
+Leaf/child menu items remain linked to their local Universal Foods pages.

@@ -1,0 +1,8 @@
+V11:
+Increased the mega-dropdown typography for readability:
+- Section title: 16px desktop
+- Description: 14px desktop
+- Menu links: 14px desktop
+- Nested arrow: 19px
+- Responsive adjustment for medium desktop and mobile
+The v10 layout and sticky header are otherwise unchanged.
